@@ -1,0 +1,19 @@
+{
+  "name": "dashboar-widget",
+  "version": "1.0.0",
+  "description": "Generate chart ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^25.5.1"
+  },
+  "dependencies": {
+    "recharts": "^2.4.3"
+  }
+}
